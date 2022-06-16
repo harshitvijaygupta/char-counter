@@ -1,5 +1,5 @@
 # Character Counter App
-<p>A Grammarly Clone with a real-time character counter from scratch including all the HTML Part, CSS Part, and JavaScript Parts.</p>
+<p>A Grammarly Clone with a real-time character counter from scratch including all the HTML, CSS, and JavaScript.</p>
 
 ### This app has following features as : -
 <ul>
